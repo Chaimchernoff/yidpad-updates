@@ -1,0 +1,5 @@
+{
+  "service": "yidpad-updates",
+  "channel": "stable",
+  "state": "not-published"
+}
