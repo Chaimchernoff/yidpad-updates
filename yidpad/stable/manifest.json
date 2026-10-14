@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "releaseId": "yidpad-0.12.0-production-updates",
+  "releaseId": "yidpad-0.12.3-production-updates",
   "packageName": "com.yidpad.lockdown",
-  "versionCode": 19,
-  "versionName": "0.12.0-production-updates",
+  "versionCode": 22,
+  "versionName": "0.12.3-production-updates",
   "targetModels": [
     "100135925"
   ],
   "minimumSdk": 28,
   "rollout": {
     "percentage": 0,
-    "seed": "yidpad-0.12.0-stable"
+    "seed": "yidpad-0.12.3-stable"
   },
   "apk": {
-    "path": "yidpad-0.12.0-production-updates.apk",
-    "sha256": "ffcbe9b6de1f37ff8f97bfe9215e1604248ce468d3017f340abfbb9d64b67620",
-    "sizeBytes": 814284,
+    "path": "yidpad-0.12.3-production-updates.apk",
+    "sha256": "e8d9d7859bd152698d48f43ca9141f9046e0fa305a58eb84d7a3032988a489ed",
+    "sizeBytes": 822008,
     "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
   }
 }
