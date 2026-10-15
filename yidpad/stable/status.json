@@ -2,7 +2,7 @@
   "service": "yidpad-updates",
   "channel": "stable",
   "state": "hold",
-  "releaseId": "yidpad-0.12.3-production-updates",
-  "versionCode": 22,
+  "releaseId": "yidpad-0.12.4-production-updates",
+  "versionCode": 23,
   "rolloutPercentage": 0
 }
