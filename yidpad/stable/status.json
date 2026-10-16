@@ -1,8 +1,8 @@
 {
   "service": "yidpad-updates",
   "channel": "stable",
-  "state": "hold",
+  "state": "physical-v39-recovery-test",
   "releaseId": "yidpad-0.12.20-recovery-probe",
   "versionCode": 39,
-  "rolloutPercentage": 0
+  "rolloutPercentage": 100
 }
