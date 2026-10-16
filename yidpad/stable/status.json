@@ -1,8 +1,8 @@
 {
   "service": "yidpad-updates",
   "channel": "stable",
-  "state": "hold",
-  "releaseId": "yidpad-0.12.4-production-updates",
-  "versionCode": 23,
-  "rolloutPercentage": 0
+  "state": "physical-pilot",
+  "releaseId": "yidpad-0.12.6-production-remote-update",
+  "versionCode": 25,
+  "rolloutPercentage": 100
 }
