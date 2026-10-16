@@ -1,8 +1,8 @@
 {
   "service": "yidpad-updates",
   "channel": "stable",
-  "state": "physical-v41-handoff-test",
+  "state": "hold-after-v41-physical-validation",
   "releaseId": "yidpad-0.12.22-play-protect-handoff",
   "versionCode": 41,
-  "rolloutPercentage": 100
+  "rolloutPercentage": 0
 }
