@@ -1,8 +1,8 @@
 {
   "service": "yidpad-updates",
   "channel": "stable",
-  "state": "physical-pilot",
+  "state": "hold",
   "releaseId": "yidpad-0.12.7-production-remote-update-fix",
   "versionCode": 26,
-  "rolloutPercentage": 100
+  "rolloutPercentage": 0
 }
