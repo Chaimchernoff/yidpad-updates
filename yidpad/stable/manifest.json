@@ -9,7 +9,7 @@
   ],
   "minimumSdk": 28,
   "rollout": {
-    "percentage": 100,
+    "percentage": 0,
     "seed": "yidpad-0.12.16-parent-approved-updates"
   },
   "apk": {
