@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 2,
+  "targetModels": [
+    "100135925"
+  ],
+  "apps": [
+    {
+      "appId": "yidpad-stock-ticker",
+      "displayName": "Stock Ticker",
+      "packageName": "com.yidpad.stockticker",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "minimumSdk": 28,
+      "category": "SCHOOL",
+      "rollout": {
+        "percentage": 100,
+        "seed": "yidpad-stock-ticker-v1"
+      },
+      "apk": {
+        "path": "apks/yidpad-stock-ticker-1.apk",
+        "sha256": "6d2d7b03ff01e7769de5d92355d12642bae487055a46d24bca33816c57247803",
+        "sizeBytes": 26316,
+        "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
+      }
+    }
+  ]
+}
