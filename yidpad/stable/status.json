@@ -1,8 +1,8 @@
 {
   "service": "yidpad-updates",
   "channel": "stable",
-  "state": "physical-bootstrap-test",
-  "releaseId": "yidpad-0.12.17-user-approved-updates",
-  "versionCode": 36,
+  "state": "physical-child-update-test",
+  "releaseId": "yidpad-0.12.18-child-update-pilot",
+  "versionCode": 37,
   "rolloutPercentage": 100
 }
