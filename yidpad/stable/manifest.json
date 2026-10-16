@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "releaseId": "yidpad-0.12.6-production-remote-update",
+  "releaseId": "yidpad-0.12.7-production-remote-update-fix",
   "packageName": "com.yidpad.lockdown",
-  "versionCode": 25,
-  "versionName": "0.12.6-production-remote-update",
+  "versionCode": 26,
+  "versionName": "0.12.7-production-remote-update-fix",
   "targetModels": [
     "100135925"
   ],
   "minimumSdk": 28,
   "rollout": {
-    "percentage": 0,
-    "seed": "yidpad-0.12.6-stable"
+    "percentage": 100,
+    "seed": "yidpad-0.12.7-stable"
   },
   "apk": {
-    "path": "yidpad-0.12.6-production-remote-update.apk",
-    "sha256": "d7c3f1fbfeeb820cbf5ee22b5f77b95dd0c12488afc724d958ef85e9c2ea4d8b",
-    "sizeBytes": 824100,
+    "path": "yidpad-0.12.7-production-remote-update-fix.apk",
+    "sha256": "030adb5314405880ec37ceea27ab1de8103551234cd332df6773ce6a1b819c4e",
+    "sizeBytes": 825724,
     "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
   }
 }
