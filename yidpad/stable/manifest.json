@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "releaseId": "yidpad-0.12.20-recovery-probe",
+  "releaseId": "yidpad-0.12.22-play-protect-handoff",
   "packageName": "com.yidpad.lockdown",
-  "versionCode": 39,
-  "versionName": "0.12.20-recovery-probe",
+  "versionCode": 41,
+  "versionName": "0.12.22-play-protect-handoff",
   "targetModels": [
     "100135925"
   ],
   "minimumSdk": 28,
   "rollout": {
-    "percentage": 100,
-    "seed": "yidpad-0.12.20-recovery-probe"
+    "percentage": 0,
+    "seed": "yidpad-0.12.22-play-protect-handoff"
   },
   "apk": {
-    "path": "yidpad-0.12.20-recovery-probe.apk",
-    "sha256": "f565332c8da829c9f59c3815c552bc0c0c1e966280f8ecf7fe0df92804d237ee",
-    "sizeBytes": 854620,
+    "path": "yidpad-0.12.22-play-protect-handoff.apk",
+    "sha256": "74443456ddbfebf9c2c47b6e9edcf70c945e4b7436112c21a2495e7278dbb573",
+    "sizeBytes": 855132,
     "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
   }
 }
