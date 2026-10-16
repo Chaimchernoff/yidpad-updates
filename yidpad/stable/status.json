@@ -1,8 +1,8 @@
 {
   "service": "yidpad-updates",
   "channel": "stable",
-  "state": "physical-v39-recovery-test",
+  "state": "hold-after-v39-play-protect-handoff-failure",
   "releaseId": "yidpad-0.12.20-recovery-probe",
   "versionCode": 39,
-  "rolloutPercentage": 100
+  "rolloutPercentage": 0
 }
