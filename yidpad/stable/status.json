@@ -2,7 +2,7 @@
   "service": "yidpad-updates",
   "channel": "stable",
   "state": "physical-parent-approval-test",
-  "releaseId": "yidpad-0.12.9-parent-approved-updates",
-  "versionCode": 28,
+  "releaseId": "yidpad-0.12.11-parent-approved-updates",
+  "versionCode": 30,
   "rolloutPercentage": 100
 }
