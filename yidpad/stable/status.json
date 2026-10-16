@@ -2,7 +2,7 @@
   "service": "yidpad-updates",
   "channel": "stable",
   "state": "hold",
-  "releaseId": "yidpad-0.12.18-child-update-pilot",
-  "versionCode": 37,
+  "releaseId": "yidpad-0.12.19-child-update-recovery",
+  "versionCode": 38,
   "rolloutPercentage": 0
 }

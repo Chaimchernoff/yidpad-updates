@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "releaseId": "yidpad-0.12.18-child-update-pilot",
+  "releaseId": "yidpad-0.12.19-child-update-recovery",
   "packageName": "com.yidpad.lockdown",
-  "versionCode": 37,
-  "versionName": "0.12.18-child-update-pilot",
+  "versionCode": 38,
+  "versionName": "0.12.19-child-update-recovery",
   "targetModels": [
     "100135925"
   ],
   "minimumSdk": 28,
   "rollout": {
     "percentage": 0,
-    "seed": "yidpad-0.12.18-child-update-pilot"
+    "seed": "yidpad-0.12.19-child-update-recovery"
   },
   "apk": {
-    "path": "yidpad-0.12.18-child-update-pilot.apk",
-    "sha256": "f5e846b6adf835a757aa943ece5fd54583a584f8629fe6ca5eab171687497607",
-    "sizeBytes": 832400,
+    "path": "yidpad-0.12.19-child-update-recovery.apk",
+    "sha256": "950d9de9bae2fbe9d4f78d00b57a806e609ec96de1a8b97b3dba0dc7d7b83fd4",
+    "sizeBytes": 833296,
     "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
   }
 }
