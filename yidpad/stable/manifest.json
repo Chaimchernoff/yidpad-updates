@@ -14,8 +14,8 @@
   },
   "apk": {
     "path": "yidpad-0.12.7-production-remote-update-fix.apk",
-    "sha256": "030adb5314405880ec37ceea27ab1de8103551234cd332df6773ce6a1b819c4e",
-    "sizeBytes": 825724,
+    "sha256": "6576d683e9901565da9c7d592273b26150cfb8bd8afddfdd29e08331d37f9533",
+    "sizeBytes": 825876,
     "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
   }
 }
