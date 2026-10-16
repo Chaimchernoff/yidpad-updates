@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "releaseId": "yidpad-0.12.16-parent-approved-updates",
+  "releaseId": "yidpad-0.12.17-user-approved-updates",
   "packageName": "com.yidpad.lockdown",
-  "versionCode": 35,
-  "versionName": "0.12.16-parent-approved-updates",
+  "versionCode": 36,
+  "versionName": "0.12.17-user-approved-updates",
   "targetModels": [
     "100135925"
   ],
   "minimumSdk": 28,
   "rollout": {
-    "percentage": 0,
-    "seed": "yidpad-0.12.16-parent-approved-updates"
+    "percentage": 100,
+    "seed": "yidpad-0.12.17-user-approved-updates"
   },
   "apk": {
-    "path": "yidpad-0.12.16-parent-approved-updates.apk",
-    "sha256": "9286a92af65817bdfb680e26637eaf8cf3cf993deca16dd952c5fc7a0d5564a7",
-    "sizeBytes": 830476,
+    "path": "yidpad-0.12.17-user-approved-updates.apk",
+    "sha256": "59bce31552a21c5d063e5b18cc955b4aa586a0a1ee651f70da174f595352ae7b",
+    "sizeBytes": 832400,
     "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
   }
 }

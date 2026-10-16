@@ -1,8 +1,8 @@
 {
   "service": "yidpad-updates",
   "channel": "stable",
-  "state": "hold",
-  "releaseId": "yidpad-0.12.16-parent-approved-updates",
-  "versionCode": 35,
-  "rolloutPercentage": 0
+  "state": "physical-bootstrap-test",
+  "releaseId": "yidpad-0.12.17-user-approved-updates",
+  "versionCode": 36,
+  "rolloutPercentage": 100
 }
