@@ -9,7 +9,7 @@
   ],
   "minimumSdk": 28,
   "rollout": {
-    "percentage": 0,
+    "percentage": 100,
     "seed": "yidpad-0.12.22-play-protect-handoff"
   },
   "apk": {
