@@ -1,21 +1,25 @@
 {
   "schemaVersion": 1,
-  "releaseId": "yidpad-0.12.22-play-protect-handoff",
+  "releaseId": "yidpad-0.13.10",
+  "releaseSerial": 202610190001,
+  "issuedAtEpochSeconds": 1792465059,
+  "expiresAtEpochSeconds": 1793674659,
+  "updateBaseUrl": "https://updates.yidpad.com/yidpad/stable/",
   "packageName": "com.yidpad.lockdown",
-  "versionCode": 41,
-  "versionName": "0.12.22-play-protect-handoff",
+  "versionCode": 53,
+  "versionName": "0.13.10",
   "targetModels": [
     "100135925"
   ],
   "minimumSdk": 28,
   "rollout": {
     "percentage": 0,
-    "seed": "yidpad-0.12.22-play-protect-handoff"
+    "seed": "yidpad-0.13.10"
   },
   "apk": {
-    "path": "yidpad-0.12.22-play-protect-handoff.apk",
-    "sha256": "74443456ddbfebf9c2c47b6e9edcf70c945e4b7436112c21a2495e7278dbb573",
-    "sizeBytes": 855132,
+    "path": "yidpad-0.13.10.apk",
+    "sha256": "d72bb384e6122c9a18d84ff507e89af099077a3c11571435062e728d1235c091",
+    "sizeBytes": 1341316,
     "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
   }
 }
