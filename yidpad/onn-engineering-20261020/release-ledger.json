@@ -1,0 +1,28 @@
+{
+  "ledgerType": "yidpad-self-update",
+  "ledgerSchemaVersion": 1,
+  "updateBaseUrl": "https://updates.yidpad.com/yidpad/onn-engineering-20261020/",
+  "managedAppBaseUrl": "https://updates.yidpad.com/yidpad/apps/stable/",
+  "remoteBaseUrl": "https://admin.yidpad.com",
+  "commandSigningKeyId": "family-beta-2026-10-18",
+  "commandSigningPublicKeySha256": "0fba278857845d554d3591daead3c152714940da22792d6439b0c02d0b78e9a1",
+  "metadataSigningPublicKeySha256": "df93c9f5fc0a07b6d68fa894d7791e50f125b74b994f016ace2257ffd3c4720d",
+  "lineageRootType": "first-release",
+  "lineageRootSha256": null,
+  "previousLedgerSha256": "ed9856bc46f24fa14793625a17950c5e9593305d0d0d086d3838f975f8be6772",
+  "highestReleaseSerial": 202610210001,
+  "acceptedManifestSha256": "324608a8e941f5c5a6807493e0cefaf5c3cb190d6b88932acf25bc38bf296dc4",
+  "releaseId": "yidpad-0.13.13",
+  "targetModels": [
+    "100135925"
+  ],
+  "rolloutSeed": "yidpad-0.13.13",
+  "rolloutPercentage": 100,
+  "packageName": "com.yidpad.lockdown",
+  "versionCode": 56,
+  "versionName": "0.13.13",
+  "minimumSdk": 28,
+  "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65",
+  "apkSha256": "9349911a1ec144f446579b7927f9ac6895960ee612c6d0dac08edd93f71d1f9c",
+  "apkSizeBytes": 1343004
+}
