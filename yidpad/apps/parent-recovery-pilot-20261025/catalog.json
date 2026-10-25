@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "managedAppBaseUrl": "https://updates.yidpad.com/yidpad/apps/parent-recovery-pilot-20261025/",
+  "catalogVersion": 1,
+  "issuedAtEpochSeconds": 1792908198,
+  "expiresAtEpochSeconds": 1794117798,
+  "targetModels": [
+    "100135925"
+  ],
+  "apps": [
+    {
+      "appId": "tv-torahtreasure-android",
+      "displayName": "Toveedo",
+      "packageName": "tv.torahtreasure.android",
+      "versionCode": 1912360469,
+      "versionName": "3.36.0",
+      "minimumSdk": 32,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "tv-torahtreasure-android-recovery-1912360469"
+      },
+      "apk": {
+        "path": "apks/tv-torahtreasure-android-1912360469.apks",
+        "sha256": "79086a3b0152d74058c890bd6b9712e1aece38af44eb52798a22690eb2dc5e09",
+        "sizeBytes": 51403639,
+        "signerCertificateSha256": "ef7855902a15bc36008bef011d8f8139522c22526f2cf8755a5ff72b0c77b183"
+      }
+    },
+    {
+      "appId": "app-tfs-prod",
+      "displayName": "24Six",
+      "packageName": "app.tfs.prod",
+      "versionCode": 329,
+      "versionName": "66.3.19",
+      "minimumSdk": 21,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "app-tfs-prod-recovery-329"
+      },
+      "apk": {
+        "path": "apks/app-tfs-prod-329.apks",
+        "sha256": "b94fd806d1b2b64c8099d2b92425b06b08444b6e48280948670c36c9be3d7031",
+        "sizeBytes": 41739285,
+        "signerCertificateSha256": "bac989dcd40d08d4c314f74f8c4dc9b8d25d5c3e26feb0cd9cadbdaaee68bf63"
+      }
+    },
+    {
+      "appId": "com-kosher-mobile",
+      "displayName": "Kosher.com",
+      "packageName": "com.kosher.mobile",
+      "versionCode": 20260909,
+      "versionName": "2.6",
+      "minimumSdk": 28,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-kosher-mobile-recovery-20260909"
+      },
+      "apk": {
+        "path": "apks/com-kosher-mobile-20260909.apks",
+        "sha256": "06e2055cfa2434cdcac765da2e6af9e855d5e1e82d835e5a1b23b7cc597183e5",
+        "sizeBytes": 84702077,
+        "signerCertificateSha256": "c75055e944b869261f99108a1242d9fc2b085cdd6fd25fd54898484d2f34b41c"
+      }
+    },
+    {
+      "appId": "com-yidflicks-app",
+      "displayName": "YidFlicks",
+      "packageName": "com.yidflicks.app",
+      "versionCode": 10029,
+      "versionName": "1.0.16",
+      "minimumSdk": 24,
+      "category": "GAMES",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-yidflicks-app-recovery-10029"
+      },
+      "apk": {
+        "path": "apks/com-yidflicks-app-10029.apks",
+        "sha256": "4430a30094d4558bf9db9d016eb0e463daeb7910686584718e4ab9d3a7579a9d",
+        "sizeBytes": 51263217,
+        "signerCertificateSha256": "ca01cc87fd365764d72e85c6e820e5317a592bb3a8b8459154f6468510a156df"
+      }
+    },
+    {
+      "appId": "com-yaschaffel-spotmobile",
+      "displayName": "YidPod",
+      "packageName": "com.yaschaffel.spotmobile",
+      "versionCode": 117,
+      "versionName": "1.6.39",
+      "minimumSdk": 21,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-yaschaffel-spotmobile-recovery-117"
+      },
+      "apk": {
+        "path": "apks/com-yaschaffel-spotmobile-117.apks",
+        "sha256": "e0d6aeada9033539c6dba4080557ce2dd36fdca9312bc1ec3a8e90ddd2bcf50f",
+        "sizeBytes": 71790824,
+        "signerCertificateSha256": "c46728a08e466a782eb74f0dbe0d6b5ddf3d07390c8899994ac70366a81f624c"
+      }
+    },
+    {
+      "appId": "fm-jewishmusic-application",
+      "displayName": "Zing",
+      "packageName": "fm.jewishmusic.application",
+      "versionCode": 320,
+      "versionName": "4.0.3",
+      "minimumSdk": 32,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "fm-jewishmusic-application-recovery-320"
+      },
+      "apk": {
+        "path": "apks/fm-jewishmusic-application-320.apks",
+        "sha256": "4db4030c23e34e3d1a7e535854b1776c9d2d0ee37d1d01118cea820d77d76d0d",
+        "sizeBytes": 33734999,
+        "signerCertificateSha256": "97f137aa25f859a3c2b96977ea1c645690844eecf1c1db61fd7a55e856cdc1d3"
+      }
+    },
+    {
+      "appId": "com-nakiradio-mobile",
+      "displayName": "Naki Go",
+      "packageName": "com.nakiradio.mobile",
+      "versionCode": 125,
+      "versionName": "2.6.1",
+      "minimumSdk": 24,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-nakiradio-mobile-recovery-125"
+      },
+      "apk": {
+        "path": "apks/com-nakiradio-mobile-125.apks",
+        "sha256": "231c2ecf4a4fde66c243e8bbb5e1789d43753c75722997ad8736497cc5b2111b",
+        "sizeBytes": 33905950,
+        "signerCertificateSha256": "b5bb9b87e53d50d258dadcd35eb904fb5e9670afe9fa86d2ad78b973c527f9af"
+      }
+    },
+    {
+      "appId": "com-levtec-jewishmusicstream",
+      "displayName": "Jewish Music Stream",
+      "packageName": "com.levtec.jewishmusicstream",
+      "versionCode": 32,
+      "versionName": "1.2.11",
+      "minimumSdk": 19,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-levtec-jewishmusicstream-recovery-32"
+      },
+      "apk": {
+        "path": "apks/com-levtec-jewishmusicstream-32.apks",
+        "sha256": "d48915c25a1357f244b33693bd3226b8d9e18e2afe641b7b13c31c8d6f51e657",
+        "sizeBytes": 4272123,
+        "signerCertificateSha256": "9c8c15f28ccf51059adc4f80c4f6e295a4f7fa58ec2bad77beb7419ef7537f11"
+      }
+    }
+  ]
+}
