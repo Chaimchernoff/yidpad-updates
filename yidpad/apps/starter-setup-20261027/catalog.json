@@ -1,0 +1,620 @@
+{
+  "schemaVersion": 1,
+  "managedAppBaseUrl": "https://updates.yidpad.com/yidpad/apps/starter-setup-20261027/",
+  "catalogVersion": 1,
+  "issuedAtEpochSeconds": 1793134120,
+  "expiresAtEpochSeconds": 1794343720,
+  "targetModels": [
+    "100135925"
+  ],
+  "apps": [
+    {
+      "appId": "tv-torahtreasure-android",
+      "displayName": "Toveedo",
+      "packageName": "tv.torahtreasure.android",
+      "versionCode": 1912360469,
+      "versionName": "3.36.0",
+      "minimumSdk": 32,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "tv-torahtreasure-android-initial"
+      },
+      "apk": {
+        "path": "apks/tv-torahtreasure-android-1912360469.apks",
+        "sha256": "79086a3b0152d74058c890bd6b9712e1aece38af44eb52798a22690eb2dc5e09",
+        "sizeBytes": 51403639,
+        "signerCertificateSha256": "ef7855902a15bc36008bef011d8f8139522c22526f2cf8755a5ff72b0c77b183"
+      }
+    },
+    {
+      "appId": "com-yidflicks-app",
+      "displayName": "YidFlicks",
+      "packageName": "com.yidflicks.app",
+      "versionCode": 10029,
+      "versionName": "1.0.16",
+      "minimumSdk": 24,
+      "category": "GAMES",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-yidflicks-app-initial"
+      },
+      "apk": {
+        "path": "apks/com-yidflicks-app-10029.apks",
+        "sha256": "4430a30094d4558bf9db9d016eb0e463daeb7910686584718e4ab9d3a7579a9d",
+        "sizeBytes": 51263217,
+        "signerCertificateSha256": "ca01cc87fd365764d72e85c6e820e5317a592bb3a8b8459154f6468510a156df"
+      }
+    },
+    {
+      "appId": "com-yidstatus-app",
+      "displayName": "YidStatus",
+      "packageName": "com.yidstatus.app",
+      "versionCode": 6,
+      "versionName": "1.3.0",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-yidstatus-app-initial"
+      },
+      "apk": {
+        "path": "apks/com-yidstatus-app-6.apks",
+        "sha256": "5c9ffca238761097cd468ae89f49a74e3e15a135470b093ad9a01aa475705d7d",
+        "sizeBytes": 17749103,
+        "signerCertificateSha256": "75006b94d6ff2ad1d027faf1ca43e09d81f85205f40a40ff4f6a2e9abf79e51a"
+      }
+    },
+    {
+      "appId": "com-torahlive-tl",
+      "displayName": "Torah Live",
+      "packageName": "com.torahlive.tl",
+      "versionCode": 25,
+      "versionName": "1.0.22",
+      "minimumSdk": 26,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-torahlive-tl-initial"
+      },
+      "apk": {
+        "path": "apks/com-torahlive-tl-25.apks",
+        "sha256": "da36c505f0ab370e0d5ff9a74e6e3db26d766e5bc61b1598f8558d0ec0dd4156",
+        "sizeBytes": 59239209,
+        "signerCertificateSha256": "dd9f4e3dcb8e1bbbacb7b92e65dab7b4075aabdc7726a4f1141edcc29a9dd221"
+      }
+    },
+    {
+      "appId": "org-ou-allparsha",
+      "displayName": "All Parsha",
+      "packageName": "org.ou.allparsha",
+      "versionCode": 73,
+      "versionName": "2.6.1",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "org-ou-allparsha-initial"
+      },
+      "apk": {
+        "path": "apks/org-ou-allparsha-73.apks",
+        "sha256": "ed18e7db3074f1cfc71ed234fc35c2da4e623f171e130468f371596be963010a",
+        "sizeBytes": 102894060,
+        "signerCertificateSha256": "31cb042a71574d28de6f95db1ca01e85cf330b2559657682ea32b830b2dbe370"
+      }
+    },
+    {
+      "appId": "org-ou-allmishna",
+      "displayName": "All Mishnah",
+      "packageName": "org.ou.allmishna",
+      "versionCode": 119,
+      "versionName": "2.5.1",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "org-ou-allmishna-initial"
+      },
+      "apk": {
+        "path": "apks/org-ou-allmishna-119.apks",
+        "sha256": "4d6846a4842f15077f55bde2306149cadb038a8892721d3bca994d577a3d3647",
+        "sizeBytes": 98949352,
+        "signerCertificateSha256": "f142d76295fa2ec211caf6f40223c3b68ba9ae132c3ed77145974c3eaabce9cc"
+      }
+    },
+    {
+      "appId": "org-ou-all-daf",
+      "displayName": "All Daf",
+      "packageName": "org.ou.all.daf",
+      "versionCode": 113,
+      "versionName": "3.1.2",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "org-ou-all-daf-initial"
+      },
+      "apk": {
+        "path": "apks/org-ou-all-daf-113.apks",
+        "sha256": "871a69a4c1afe6e5708a199ee4e9eccd0b18bdc59d73a2e200a4de6cb8dfa78a",
+        "sizeBytes": 106755907,
+        "signerCertificateSha256": "0fca396b9fc77020237ba08b9d2dfe77b345af1d2411f488235258cc7be698a9"
+      }
+    },
+    {
+      "appId": "org-ou-allhalacha",
+      "displayName": "All Halacha",
+      "packageName": "org.ou.allhalacha",
+      "versionCode": 34,
+      "versionName": "1.3.2",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "org-ou-allhalacha-initial"
+      },
+      "apk": {
+        "path": "apks/org-ou-allhalacha-34.apks",
+        "sha256": "e118d4097cd5329450e9456d0a3d682550d5be0d76cf0ac0c27cdb4972b5f029",
+        "sizeBytes": 73213239,
+        "signerCertificateSha256": "d655e99f4e215e290ff0426ca143ec9efc9fcff72e25a6f303f6f86d99f5dd89"
+      }
+    },
+    {
+      "appId": "com-torahanytime-betaapp",
+      "displayName": "TorahAnytime",
+      "packageName": "com.torahanytime.betaapp",
+      "versionCode": 550030412,
+      "versionName": "3.4.12",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-torahanytime-betaapp-initial"
+      },
+      "apk": {
+        "path": "apks/com-torahanytime-betaapp-550030412.apks",
+        "sha256": "7a785852473be028a5fdb1db6fde9e17f85e66cb0893be17aa45e7ecb73d8ac8",
+        "sizeBytes": 60830075,
+        "signerCertificateSha256": "8ef2c96750a60c0d6cb5b3a9572a665d0afc253eb363a8c14220e17178feb369"
+      }
+    },
+    {
+      "appId": "com-artscroll-digitallibrary",
+      "displayName": "ArtScroll Digital Library",
+      "packageName": "com.artscroll.digitallibrary",
+      "versionCode": 180,
+      "versionName": "7.5.7",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-artscroll-digitallibrary-initial"
+      },
+      "apk": {
+        "path": "apks/com-artscroll-digitallibrary-180.apks",
+        "sha256": "19de105d9cf16d776d258d57fe0205ff1d31df3bf33fd4ee28e5853adfa7f375",
+        "sizeBytes": 90427090,
+        "signerCertificateSha256": "fd5bf7ad8ca116bc8bb2ec203abe31f1beb7f2162b028cd62a519c7c8bb37c07"
+      }
+    },
+    {
+      "appId": "com-yilc-halachayomi",
+      "displayName": "Halacha Yomi",
+      "packageName": "com.yilc.halachayomi",
+      "versionCode": 4,
+      "versionName": "1.3",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-yilc-halachayomi-initial"
+      },
+      "apk": {
+        "path": "apks/com-yilc-halachayomi-4.apks",
+        "sha256": "a3d63b8dd5a3c1c48c042e4b6d421ea41ef09f60df62970d74b610e0f86d1a8f",
+        "sizeBytes": 8083337,
+        "signerCertificateSha256": "72dc3547dfe3abb21355dc56b4a96f52e7323321c1c786d41259078c306655f5"
+      }
+    },
+    {
+      "appId": "com-myzmanim-hybrid",
+      "displayName": "MyZmanim",
+      "packageName": "com.myzmanim.hybrid",
+      "versionCode": 18,
+      "versionName": "1.0.4",
+      "minimumSdk": 23,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-myzmanim-hybrid-initial"
+      },
+      "apk": {
+        "path": "apks/com-myzmanim-hybrid-18.apks",
+        "sha256": "2f92d1cd9615a4ca821410f37b9e3ff7a1835eed20727d39d82e5a41de6b7539",
+        "sizeBytes": 6760614,
+        "signerCertificateSha256": "afb60767ba1dab70e9c9dd1fb9a657f5b7e6c6ade424d1f875818bc74f9bee6b"
+      }
+    },
+    {
+      "appId": "com-godaven-app",
+      "displayName": "GoDaven",
+      "packageName": "com.godaven.app",
+      "versionCode": 7,
+      "versionName": "1.0.5",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-godaven-app-initial"
+      },
+      "apk": {
+        "path": "apks/com-godaven-app-7.apks",
+        "sha256": "564c4d16bd9ff73da34045a91a87de12d17e7827e0a5df89b454ab1a71607b96",
+        "sizeBytes": 34666645,
+        "signerCertificateSha256": "516e518671ef6ae3505a705a60a32bf76aad11347ddef1dd698744f680b9d5ef"
+      }
+    },
+    {
+      "appId": "com-alephplay-app",
+      "displayName": "AlephPlay",
+      "packageName": "com.alephplay.app",
+      "versionCode": 9,
+      "versionName": "1.0.1",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-alephplay-app-initial"
+      },
+      "apk": {
+        "path": "apks/com-alephplay-app-9.apks",
+        "sha256": "b5b31f2fe265e2e38882bc9f16b6714b5897c508de3e158e1e1f2688722ea24f",
+        "sizeBytes": 143557493,
+        "signerCertificateSha256": "350b6f443b1bef012f5481710b45d8bcdecbc1ca007d3622ca81c5f927c76271"
+      }
+    },
+    {
+      "appId": "com-rustybrick-bedtimeshema",
+      "displayName": "Bedtime Shema: Jewish Children",
+      "packageName": "com.rustybrick.bedtimeshema",
+      "versionCode": 6,
+      "versionName": "1.4.0",
+      "minimumSdk": 14,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-rustybrick-bedtimeshema-initial"
+      },
+      "apk": {
+        "path": "apks/com-rustybrick-bedtimeshema-6.apks",
+        "sha256": "53769d1e8d0704405c85757a2d23b5b66284347350d412b59b8e71373fd77ccc",
+        "sizeBytes": 18236546,
+        "signerCertificateSha256": "759db720d26f7cbcfff706240312f13d6b75d9baa84c7382a67a69c2cd8803b6"
+      }
+    },
+    {
+      "appId": "com-mentchlichgames-minyanhelpermobilegame",
+      "displayName": "Minyan Helper",
+      "packageName": "com.Mentchlichgames.MinyanHelperMobileGame",
+      "versionCode": 1000007,
+      "versionName": "1.0.7",
+      "minimumSdk": 21,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-mentchlichgames-minyanhelpermobilegame-initial"
+      },
+      "apk": {
+        "path": "apks/com-mentchlichgames-minyanhelpermobilegame-1000007.apks",
+        "sha256": "5deb7b7fc9efe909644dcd683bd63fd08c7b03642207cd13496d45b242d055e5",
+        "sizeBytes": 30910230,
+        "signerCertificateSha256": "5b36c92dcd6297580a53900147c757cdff23cb9c02a205902d49777c97ec83ea"
+      }
+    },
+    {
+      "appId": "com-mytorahkids-tv",
+      "displayName": "My Torah Kids TV",
+      "packageName": "com.mytorahkids.tv",
+      "versionCode": 16,
+      "versionName": "1.0.17",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-mytorahkids-tv-initial"
+      },
+      "apk": {
+        "path": "apks/com-mytorahkids-tv-16.apks",
+        "sha256": "8803f3b995aa7313af0f0ad90baf2452918c9e8477da0795b8a36cce1b9ad3d6",
+        "sizeBytes": 87064709,
+        "signerCertificateSha256": "2d64684ad0d22f9682827985961a7cb391d095a00c1511f44f0460f03f8c9ef9"
+      }
+    },
+    {
+      "appId": "com-mytorahkids-letsgo",
+      "displayName": "My Torah Kids Let's Go",
+      "packageName": "com.mytorahkids.letsgo",
+      "versionCode": 5,
+      "versionName": "1.4",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-mytorahkids-letsgo-initial"
+      },
+      "apk": {
+        "path": "apks/com-mytorahkids-letsgo-5.apks",
+        "sha256": "bb44b83175f2cc2571387cdf8b1d74ac6e8fa3581a7a34585ffaf68449ac7724",
+        "sizeBytes": 80082379,
+        "signerCertificateSha256": "84767c037d921f61384a71598a5d5d69b4f41fa0db8c8172ad9502b0e2e4e6a4"
+      }
+    },
+    {
+      "appId": "org-chabad-jewishkidsvideo",
+      "displayName": "Jewish Kids Videos",
+      "packageName": "org.chabad.jewishkidsvideo",
+      "versionCode": 240930002,
+      "versionName": "2.0.7",
+      "minimumSdk": 21,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "org-chabad-jewishkidsvideo-initial"
+      },
+      "apk": {
+        "path": "apks/org-chabad-jewishkidsvideo-240930002.apks",
+        "sha256": "a504ae2a1e88d49bf714edb7305a4641084916f9fd15dcb1b009843f179ff675",
+        "sizeBytes": 23230390,
+        "signerCertificateSha256": "4909722b22570ddcbc1479b2915dcf9e1cebeee3278546abab6bd373acf5bc64"
+      }
+    },
+    {
+      "appId": "com-nikitouch-aryeland",
+      "displayName": "Arye Land — Games & Stories",
+      "packageName": "com.nikitouch.aryeland",
+      "versionCode": 77,
+      "versionName": "2.1.2",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-nikitouch-aryeland-initial"
+      },
+      "apk": {
+        "path": "apks/com-nikitouch-aryeland-77.apks",
+        "sha256": "404decf882d12bdedd2e7a9db358c1d7caac573e65f415146bea914f2052a7be",
+        "sizeBytes": 40033326,
+        "signerCertificateSha256": "3acc7f86dd242c99ddb0b0396fabb0226c65d11024841ff5977e86375eba1035"
+      }
+    },
+    {
+      "appId": "org-jabadlaplata-komatzalef",
+      "displayName": "Komatz Alef",
+      "packageName": "org.jabadlaplata.komatzalef",
+      "versionCode": 23,
+      "versionName": "3.2.1",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "org-jabadlaplata-komatzalef-initial"
+      },
+      "apk": {
+        "path": "apks/org-jabadlaplata-komatzalef-23.apks",
+        "sha256": "c50abf59a657b2148570ea8c974c653f6b6cf0d8bc3c31e2a81e71b0a37b78fa",
+        "sizeBytes": 24479954,
+        "signerCertificateSha256": "d2e37406d4ba85e734d3697dae2a91a16b34f19d67848246ea3b2e5bb26406ed"
+      }
+    },
+    {
+      "appId": "com-mytorahkids-alephbeth",
+      "displayName": "My Torah Kids Aleph Beth",
+      "packageName": "com.mytorahkids.alephbeth",
+      "versionCode": 5,
+      "versionName": "1.4",
+      "minimumSdk": 23,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-mytorahkids-alephbeth-initial"
+      },
+      "apk": {
+        "path": "apks/com-mytorahkids-alephbeth-5.apks",
+        "sha256": "9c49b7928e2fb06eb6630ab76a23b096d640b76a4cdb38f162570c3acc2c236a",
+        "sizeBytes": 96365322,
+        "signerCertificateSha256": "ff58f498e242cdb47ed0c8fbf7d90616cf72982ccb5b402c6699a3722a160e0c"
+      }
+    },
+    {
+      "appId": "com-shwartz-alefbeit",
+      "displayName": "Aleph Bet — Hebrew for Kids",
+      "packageName": "com.shwartz.alefbeit",
+      "versionCode": 91,
+      "versionName": "3.19.1",
+      "minimumSdk": 32,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-shwartz-alefbeit-initial"
+      },
+      "apk": {
+        "path": "apks/com-shwartz-alefbeit-91.apks",
+        "sha256": "af1b1458b19c5e46c0127a5308a364e3f7b2cc9cdb67fbd287070d093f25a634",
+        "sizeBytes": 32629279,
+        "signerCertificateSha256": "1e23431a5895a12c423d3061d9748e1f64268dc199b2278ef0421e3b751a3437"
+      }
+    },
+    {
+      "appId": "com-gbt-nikudkids",
+      "displayName": "Hebrew Alphabet Journey",
+      "packageName": "com.gbt.nikudkids",
+      "versionCode": 12,
+      "versionName": "1.1.2",
+      "minimumSdk": 32,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-gbt-nikudkids-initial"
+      },
+      "apk": {
+        "path": "apks/com-gbt-nikudkids-12.apks",
+        "sha256": "b4b8846500b627f924cd0b1fb9b0bd55496341e2a50dffb99c364897570b6a50",
+        "sizeBytes": 17975680,
+        "signerCertificateSha256": "eddf1d5551dbd1ef09bda9dffb5aee406d6740abf4218d36228ad988c1379a44"
+      }
+    },
+    {
+      "appId": "weitzmancreations-alephbetsearch-com",
+      "displayName": "Super Torah's Aleph Bet Search",
+      "packageName": "weitzmancreations.alephbetsearch.com",
+      "versionCode": 11,
+      "versionName": "1.1",
+      "minimumSdk": 32,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "weitzmancreations-alephbetsearch-com-initial"
+      },
+      "apk": {
+        "path": "apks/weitzmancreations-alephbetsearch-com-11.apks",
+        "sha256": "8c72d1504c5ef8910b4e611c533f9ca56d7ed78dce28b6395cd28a6c8d362688",
+        "sizeBytes": 71105866,
+        "signerCertificateSha256": "dfe489469dc0885f8562edb1f8f907b9217a144168db1324e7643a03294cb678"
+      }
+    },
+    {
+      "appId": "com-kosher-mobile",
+      "displayName": "Kosher.com",
+      "packageName": "com.kosher.mobile",
+      "versionCode": 20260909,
+      "versionName": "2.6",
+      "minimumSdk": 28,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-kosher-mobile-initial"
+      },
+      "apk": {
+        "path": "apks/com-kosher-mobile-20260909.apks",
+        "sha256": "06e2055cfa2434cdcac765da2e6af9e855d5e1e82d835e5a1b23b7cc597183e5",
+        "sizeBytes": 84702077,
+        "signerCertificateSha256": "c75055e944b869261f99108a1242d9fc2b085cdd6fd25fd54898484d2f34b41c"
+      }
+    },
+    {
+      "appId": "org-ou-kosherproducts",
+      "displayName": "OU Kosher",
+      "packageName": "org.ou.kosherproducts",
+      "versionCode": 122,
+      "versionName": "4.0.2",
+      "minimumSdk": 24,
+      "category": "TORAH",
+      "rollout": {
+        "percentage": 100,
+        "seed": "org-ou-kosherproducts-initial"
+      },
+      "apk": {
+        "path": "apks/org-ou-kosherproducts-122.apks",
+        "sha256": "7f3522bed91f081bb59e563fd289ac43222493111089f9e2c5ada5519308d825",
+        "sizeBytes": 114721880,
+        "signerCertificateSha256": "3fc85acf4de693356c8739e3da5dfa94069ae85b8e04e5e1aadc9a368580d422"
+      }
+    },
+    {
+      "appId": "app-tfs-prod",
+      "displayName": "24Six",
+      "packageName": "app.tfs.prod",
+      "versionCode": 329,
+      "versionName": "66.3.19",
+      "minimumSdk": 21,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "app-tfs-prod-initial"
+      },
+      "apk": {
+        "path": "apks/app-tfs-prod-329.apks",
+        "sha256": "b94fd806d1b2b64c8099d2b92425b06b08444b6e48280948670c36c9be3d7031",
+        "sizeBytes": 41739285,
+        "signerCertificateSha256": "bac989dcd40d08d4c314f74f8c4dc9b8d25d5c3e26feb0cd9cadbdaaee68bf63"
+      }
+    },
+    {
+      "appId": "com-yaschaffel-spotmobile",
+      "displayName": "YidPod",
+      "packageName": "com.yaschaffel.spotmobile",
+      "versionCode": 117,
+      "versionName": "1.6.39",
+      "minimumSdk": 21,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-yaschaffel-spotmobile-initial"
+      },
+      "apk": {
+        "path": "apks/com-yaschaffel-spotmobile-117.apks",
+        "sha256": "e0d6aeada9033539c6dba4080557ce2dd36fdca9312bc1ec3a8e90ddd2bcf50f",
+        "sizeBytes": 71790824,
+        "signerCertificateSha256": "c46728a08e466a782eb74f0dbe0d6b5ddf3d07390c8899994ac70366a81f624c"
+      }
+    },
+    {
+      "appId": "fm-jewishmusic-application",
+      "displayName": "Zing",
+      "packageName": "fm.jewishmusic.application",
+      "versionCode": 320,
+      "versionName": "4.0.3",
+      "minimumSdk": 32,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "fm-jewishmusic-application-initial"
+      },
+      "apk": {
+        "path": "apks/fm-jewishmusic-application-320.apks",
+        "sha256": "4db4030c23e34e3d1a7e535854b1776c9d2d0ee37d1d01118cea820d77d76d0d",
+        "sizeBytes": 33734999,
+        "signerCertificateSha256": "97f137aa25f859a3c2b96977ea1c645690844eecf1c1db61fd7a55e856cdc1d3"
+      }
+    },
+    {
+      "appId": "com-nakiradio-mobile",
+      "displayName": "Naki Go",
+      "packageName": "com.nakiradio.mobile",
+      "versionCode": 125,
+      "versionName": "2.6.1",
+      "minimumSdk": 24,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-nakiradio-mobile-initial"
+      },
+      "apk": {
+        "path": "apks/com-nakiradio-mobile-125.apks",
+        "sha256": "231c2ecf4a4fde66c243e8bbb5e1789d43753c75722997ad8736497cc5b2111b",
+        "sizeBytes": 33905950,
+        "signerCertificateSha256": "b5bb9b87e53d50d258dadcd35eb904fb5e9670afe9fa86d2ad78b973c527f9af"
+      }
+    },
+    {
+      "appId": "com-levtec-jewishmusicstream",
+      "displayName": "Jewish Music Stream",
+      "packageName": "com.levtec.jewishmusicstream",
+      "versionCode": 32,
+      "versionName": "1.2.11",
+      "minimumSdk": 19,
+      "category": "AUDIO",
+      "rollout": {
+        "percentage": 100,
+        "seed": "com-levtec-jewishmusicstream-initial"
+      },
+      "apk": {
+        "path": "apks/com-levtec-jewishmusicstream-32.apks",
+        "sha256": "d48915c25a1357f244b33693bd3226b8d9e18e2afe641b7b13c31c8d6f51e657",
+        "sizeBytes": 4272123,
+        "signerCertificateSha256": "9c8c15f28ccf51059adc4f80c4f6e295a4f7fa58ec2bad77beb7419ef7537f11"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "versionCode": 95,
+  "versionName": "0.13.52",
+  "packageName": "com.yidpad.lockdown",
+  "apkSha256": "15e3e5edd8ad72927cdd9c7a7deabba02ddb1ebb7371a42dcda11f8efff66b4d",
+  "signerSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65",
+  "starterAppCount": 32,
+  "purpose": "first-time-enrollment-with-starter-apps",
+  "physicalQrTrial": "pending",
+  "transportChunkBytes": 8388608
+}
