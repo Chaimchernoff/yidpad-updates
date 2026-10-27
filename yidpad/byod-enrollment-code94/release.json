@@ -1,0 +1,12 @@
+{
+  "versionCode": 94,
+  "versionName": "0.13.51",
+  "packageName": "com.yidpad.lockdown",
+  "apkSha256": "880b068b34b7afed904560960d1055f33a804324e54cbcac4ba8de8e2566f14d",
+  "signerSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65",
+  "sourceCommit": "a85ce0284efd556ebb59290325d14de3f97a2c94",
+  "purpose": "first-time-enrollment-pilot",
+  "emulatorStartupVerified": true,
+  "removedSystemAppRegressionVerified": true,
+  "physicalQrTrial": "pending"
+}
