@@ -1,0 +1,9 @@
+{
+  "build": 98,
+  "version": "0.13.55",
+  "sha256": "5d1fe0caa5b696f813b73773ee60d56c3777da5c362fe34ae8d8d1dd0ae48af4",
+  "signerSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65",
+  "upgradeTestedOnTablet": true,
+  "freshEnrollmentTestPending": true,
+  "approval": "Owner explicitly approved publishing build 98 and its QR on 2026-10-27."
+}
