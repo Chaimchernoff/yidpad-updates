@@ -1,0 +1,19 @@
+{
+  "versionCode": 112,
+  "versionName": "0.13.69",
+  "apkSha256": "8673e8476881daab67b147d6fee640a2a6b02df40e3bab7daa8b83011ff0988c",
+  "apkSizeBytes": 3831003,
+  "signerSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65",
+  "sourceRepository": "https://github.com/Chaimchernoff/YidPad",
+  "sourceBranch": "codex/auto-enrollment-frp",
+  "sourceCommit": "098201b",
+  "debugTestsPassed": 908,
+  "releaseTestsPassed": 910,
+  "releaseLintPassed": true,
+  "status": "tested signed APK awaiting official update-metadata signature",
+  "updateChannel": "https://updates.yidpad.com/yidpad/onn-engineering-20261020/",
+  "targetModels": [
+    "100135925"
+  ],
+  "metadataKeySpkiSha256": "df93c9f5fc0a07b6d68fa894d7791e50f125b74b994f016ace2257ffd3c4720d"
+}
