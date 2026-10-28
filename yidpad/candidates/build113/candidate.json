@@ -1,0 +1,21 @@
+{
+  "versionCode": 113,
+  "versionName": "0.13.70",
+  "apkSha256": "5e5ef5bf8b32868491aff3460480528bf25d3eec9d93ab65c08d19ff6066f5b8",
+  "apkSizeBytes": 3830967,
+  "signerSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65",
+  "sourceRepository": "https://github.com/Chaimchernoff/YidPad",
+  "sourceBranch": "codex/auto-enrollment-frp",
+  "sourceCommit": "719e40895269369b35c629e3127cb5fb120994a8",
+  "debugTestsPassed": 908,
+  "releaseTestsPassed": 910,
+  "releaseLintPassed": true,
+  "status": "tested production-signed APK awaiting existing update-metadata signature",
+  "updateChannel": "https://updates.yidpad.com/yidpad/onn-engineering-20261020/",
+  "managedAppChannel": "https://updates.yidpad.com/yidpad/apps/starter-setup-20261027/",
+  "targetModels": [
+    "100135925"
+  ],
+  "metadataKeySpkiSha256": "df93c9f5fc0a07b6d68fa894d7791e50f125b74b994f016ace2257ffd3c4720d",
+  "physicalVerification": "USB upgrade succeeded; starter app collection restored and Add buttons enabled"
+}
