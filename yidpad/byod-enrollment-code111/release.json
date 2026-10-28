@@ -1,0 +1,18 @@
+{
+  "build": 111,
+  "version": "0.13.68",
+  "sha256": "8d0da16612affaca2763aaa43961925aafc27bcb6b8c003367b20e3a2f52d991",
+  "sizeBytes": 3830991,
+  "signerSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65",
+  "targetModels": [
+    "100135925"
+  ],
+  "automaticCentralAdministratorFrp": true,
+  "requiresPolicyReadbackBeforeCompletion": true,
+  "physicalFreshEnrollmentTested": false,
+  "postWipeFrpEnforcementTested": false,
+  "sourceCommit": "0d79420",
+  "debugUnitTestsPassed": 908,
+  "releaseUnitTestsPassed": 910,
+  "qrIndependentlyDecoded": true
+}
