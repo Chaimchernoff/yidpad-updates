@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "releaseId": "yidpad-0.13.83",
-  "releaseSerial": 202610280015,
-  "issuedAtEpochSeconds": 1793234439,
-  "expiresAtEpochSeconds": 1794444039,
+  "releaseId": "yidpad-0.13.86",
+  "releaseSerial": 202610310001,
+  "issuedAtEpochSeconds": 1793504197,
+  "expiresAtEpochSeconds": 1794713797,
   "updateBaseUrl": "https://updates.yidpad.com/yidpad/onn-engineering-20261020/",
   "packageName": "com.yidpad.lockdown",
-  "versionCode": 126,
-  "versionName": "0.13.83",
+  "versionCode": 129,
+  "versionName": "0.13.86",
   "targetModels": [
     "100135925"
   ],
@@ -17,9 +17,9 @@
     "seed": "yidpad-0.13.69-build112"
   },
   "apk": {
-    "path": "yidpad-0.13.83.apk",
-    "sha256": "b8e0d667d3a2aaad373e769a76bb8ea325a4282687ae934a2c200ab48628e76c",
-    "sizeBytes": 3868687,
+    "path": "yidpad-0.13.86.apk",
+    "sha256": "f1defc8c44390a965927230b0c04d8098d135f9aad419618340d8b46d0f78b6d",
+    "sizeBytes": 3872271,
     "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
   }
 }
