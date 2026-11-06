@@ -1,15 +1,17 @@
 {
   "schemaVersion": 1,
-  "releaseId": "yidpad-0.13.102",
-  "releaseSerial": 202611060003,
-  "issuedAtEpochSeconds": 1793988455,
-  "expiresAtEpochSeconds": 1795198055,
+  "releaseId": "yidpad-0.13.103",
+  "releaseSerial": 202611060004,
+  "issuedAtEpochSeconds": 1793997174,
+  "expiresAtEpochSeconds": 1795206774,
   "updateBaseUrl": "https://updates.yidpad.com/yidpad/onn-engineering-20261020/",
   "packageName": "com.yidpad.lockdown",
-  "versionCode": 145,
-  "versionName": "0.13.102",
+  "versionCode": 146,
+  "versionName": "0.13.103",
   "targetModels": [
-    "100135925"
+    "*",
+    "100135925",
+    "SM-T500"
   ],
   "minimumSdk": 28,
   "rollout": {
@@ -17,9 +19,9 @@
     "seed": "yidpad-0.13.69-build112"
   },
   "apk": {
-    "path": "yidpad-0.13.102.apk",
-    "sha256": "07fdc46572311f5e33a41fd4c01a9ee60505a4a9863072a49bb092ee5a042dfb",
-    "sizeBytes": 3925003,
+    "path": "yidpad-0.13.103.apk",
+    "sha256": "5d548d371f4c41f2b4a72597cac7c2549add0e69d89040432fa1cb893f608b15",
+    "sizeBytes": 3928495,
     "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65"
   }
 }
