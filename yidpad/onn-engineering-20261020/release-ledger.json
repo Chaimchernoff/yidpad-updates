@@ -9,20 +9,20 @@
   "metadataSigningPublicKeySha256": "df93c9f5fc0a07b6d68fa894d7791e50f125b74b994f016ace2257ffd3c4720d",
   "lineageRootType": "first-release",
   "lineageRootSha256": null,
-  "previousLedgerSha256": "cc103301f33d21c855a8bd6d21333a6073fabdbfdd96f875635d92741efa2580",
-  "highestReleaseSerial": 202611150003,
-  "acceptedManifestSha256": "7f3bd639ab2949485831ff3dfdfedb396a637af343720943c5013a56a3eba151",
-  "releaseId": "yidpad-0.13.169",
+  "previousLedgerSha256": "4315e4adae6fa1b1a02b3331e170f8f0ec0c6513e7d2d26a8a25445e009251c8",
+  "highestReleaseSerial": 202611160001,
+  "acceptedManifestSha256": "d849b6df4bedc965c2d9d7c0382ea278fff7f9b79552001a6fddcf5689e1c835",
+  "releaseId": "yidpad-0.13.170",
   "targetModels": [
     "100135925"
   ],
   "rolloutSeed": "yidpad-0.13.161",
   "rolloutPercentage": 100,
   "packageName": "com.yidpad.lockdown",
-  "versionCode": 212,
-  "versionName": "0.13.169",
+  "versionCode": 213,
+  "versionName": "0.13.170",
   "minimumSdk": 28,
   "signerCertificateSha256": "e38f086a83aabf5ae0a4a61021967118fc83b7816af969f41479b5435b8eba65",
-  "apkSha256": "d95b0d10ddd77667fbd122cc35fa80970063eee7fc265cc14a799d25615a81a9",
-  "apkSizeBytes": 22619426
+  "apkSha256": "16fd5dff4b0a8f07e00607c82745556eeb6cb4df0d711a511dcf9d20534af771",
+  "apkSizeBytes": 22624082
 }
