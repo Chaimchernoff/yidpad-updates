@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "releaseId": "yidpad-0.13.237",
-  "releaseSerial": 202611230002,
-  "issuedAtEpochSeconds": 1795486060,
-  "expiresAtEpochSeconds": 1796695660,
+  "releaseSerial": 202611230003,
+  "issuedAtEpochSeconds": 1795492253,
+  "expiresAtEpochSeconds": 1796701853,
   "updateBaseUrl": "https://updates.yidpad.com/yidpad/onn-engineering-20261020/",
   "packageName": "com.yidpad.lockdown",
   "versionCode": 280,
@@ -15,7 +15,7 @@
   ],
   "minimumSdk": 28,
   "rollout": {
-    "percentage": 10,
+    "percentage": 100,
     "seed": "yidpad-central-app-updates280-pilot"
   },
   "apk": {

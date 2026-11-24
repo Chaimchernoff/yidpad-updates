@@ -9,9 +9,9 @@
   "metadataSigningPublicKeySha256": "df93c9f5fc0a07b6d68fa894d7791e50f125b74b994f016ace2257ffd3c4720d",
   "lineageRootType": "first-release",
   "lineageRootSha256": null,
-  "previousLedgerSha256": "cd876615629506e1e94f55aa837af8d1975f5663ee816f52cdd1678c96d28096",
-  "highestReleaseSerial": 202611230002,
-  "acceptedManifestSha256": "dd568dfeebf0ce754230a8fde83088a43aa7e29ac75bef68301c09427172dff6",
+  "previousLedgerSha256": "cb588606334af61d1610dd1f7d2464cd5314e9a276df1f49143e217ab60b3be5",
+  "highestReleaseSerial": 202611230003,
+  "acceptedManifestSha256": "2c750209656c4ba533cd59d1c33c5352a492b1bd6bbd46ae1f9694a9a9ede83d",
   "releaseId": "yidpad-0.13.237",
   "targetModels": [
     "*",
@@ -19,7 +19,7 @@
     "SM-T500"
   ],
   "rolloutSeed": "yidpad-central-app-updates280-pilot",
-  "rolloutPercentage": 10,
+  "rolloutPercentage": 100,
   "packageName": "com.yidpad.lockdown",
   "versionCode": 280,
   "versionName": "0.13.237",
